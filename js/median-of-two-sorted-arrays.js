@@ -4,6 +4,10 @@
  * @return {number}
  */
 var findMedianSortedArrays = function (nums1, nums2) {
+  // 1. Merge two array in soreted manner
+  // 2. If lengthn is 1 then return oth element
+  // 3. If length is even then calculate median of middle two elements
+  // 4. If length is odd then return mid element
   let arr = nums1.concat(nums2).sort((a, b) => a - b);
   if (arr.length < 2) return arr[0];
   let mid = Math.floor(arr.length / 2);
