@@ -11,3 +11,4 @@ Repository to track my DSA learning journey
 3. [Longest Substring Without Repeating Characters](./js/longest-substring-without-repeating-characters.js)
 4. [Median of Two Sorted Arrays](./js/median-of-two-sorted-arrays.js)
 5. [Longest Palindromic Substring](./js/longest-palindromic-substring.js)
+6. [ZigZag Conversion](./js/zigzag-conversion.js)
