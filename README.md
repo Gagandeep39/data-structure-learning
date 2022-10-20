@@ -13,3 +13,4 @@ Repository to track my DSA learning journey
 5. [Longest Palindromic Substring](./js/longest-palindromic-substring.js)
 6. [ZigZag Conversion](./js/zigzag-conversion.js)
 7. [Reverse Integer](./js/reverse-integer.js)
+8. [String to Integer](./js/string-to-integer.js)
