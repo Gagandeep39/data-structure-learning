@@ -17,3 +17,4 @@ Repository to track my DSA learning journey
 9. [Number Palindrome](./js/number-palindrome.js)
 10. [Regular Expression Matching](./js/regular-expression-matching.js)
 11. [Container with Most Water](./js/container-with-most-water.js)
+12. [Integer to Roman](./js/integer-to-roman.js)
