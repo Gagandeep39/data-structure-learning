@@ -18,3 +18,4 @@ Repository to track my DSA learning journey
 10. [Regular Expression Matching](./js/regular-expression-matching.js)
 11. [Container with Most Water](./js/container-with-most-water.js)
 12. [Integer to Roman](./js/integer-to-roman.js)
+13. [Roman to INteger](./js/roman-to-integer.js)
