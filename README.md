@@ -19,3 +19,7 @@ Repository to track my DSA learning journey
 11. [Container with Most Water](./js/container-with-most-water.js)
 12. [Integer to Roman](./js/integer-to-roman.js)
 13. [Roman to INteger](./js/roman-to-integer.js)
+
+## Tips
+
+- Take a look at last Solved problem before starting
