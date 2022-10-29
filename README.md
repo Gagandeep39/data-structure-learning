@@ -17,3 +17,11 @@ Repository to track my DSA learning journey
 9. [Number Palindrome](./js/number-palindrome.js)
 10. [Regular Expression Matching](./js/regular-expression-matching.js)
 11. [Container with Most Water](./js/container-with-most-water.js)
+12. [Integer to Roman](./js/integer-to-roman.js)
+13. [Roman to Integer](./js/roman-to-integer.js)
+14. [Longest Common Prefix](./js/longest-common-prefix.js)
+15. [Three Sum](./js/longest-common-prefix.js)
+
+## Tips
+
+- Take a look at last Solved problem before starting
