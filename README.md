@@ -21,7 +21,8 @@ Repository to track my DSA learning journey
 13. [Roman to Integer](./js/roman-to-integer.js)
 14. [Longest Common Prefix](./js/longest-common-prefix.js)
 15. [Three Sum](./js/longest-common-prefix.js)
-16. [Four Sum](./js/four-sum.js)
+16. [Three Sum Closest](./js/thee-sum-closest.js)
+17. [Four Sum](./js/four-sum.js)
 
 ## Tips
 
