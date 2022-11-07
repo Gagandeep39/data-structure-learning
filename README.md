@@ -24,6 +24,7 @@ Repository to track my DSA learning journey
 16. [Three Sum Closest](./js/thee-sum-closest.js)
 17. [Letter Combinations of a Phone Number](./js/letter-combination-of-phone.js)
 18. [Four Sum](./js/four-sum.js)
+19. [Remove Nth Node From End of List](./js/remove-nth-from-end.js)
 
 ## Tips
 
