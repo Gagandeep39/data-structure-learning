@@ -26,6 +26,7 @@ Repository to track my DSA learning journey
 18. [Four Sum](./js/four-sum.js)
 19. [Remove Nth Node From End of List](./js/remove-nth-from-end.js)
 20. [Valid Parenthesis](./js/valid-parenthesis.js)
+21. [Merge two sorted list](./js/merge-two-sorted-list.js)
 
 ## Tips
 
