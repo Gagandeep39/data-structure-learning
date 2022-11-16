@@ -29,6 +29,7 @@ Repository to track my DSA learning journey
 21. [Merge two sorted list](./js/merge-two-sorted-list.js)
 22. [Generate Parenthesis](./js/generate-parenthesis.js)
 23. [Merge K Lists](./js/merge-k-list.js)
+24. [Swap Nodes in Pair](./js/swap-nodes-in-pairs.js)
 
 ## Tips
 
