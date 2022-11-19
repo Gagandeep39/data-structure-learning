@@ -25,6 +25,13 @@ Repository to track my DSA learning journey
 17. [Letter Combinations of a Phone Number](./js/letter-combination-of-phone.js)
 18. [Four Sum](./js/four-sum.js)
 19. [Remove Nth Node From End of List](./js/remove-nth-from-end.js)
+20. [Valid Parenthesis](./js/valid-parenthesis.js)
+21. [Merge two sorted list](./js/merge-two-sorted-list.js)
+22. [Generate Parenthesis](./js/generate-parenthesis.js)
+23. [Merge K Lists](./js/merge-k-list.js)
+24. [Swap Nodes in Pair](./js/swap-nodes-in-pairs.js)
+25. [Remove Duplicates from Sorted array](./js/remove-duplicate.js)
+26. [Remove Element](./js/remove-element.js)
 
 ## Tips
 
