@@ -32,6 +32,7 @@ Repository to track my DSA learning journey
 24. [Swap Nodes in Pair](./js/swap-nodes-in-pairs.js)
 25. [Remove Duplicates from Sorted array](./js/remove-duplicate.js)
 26. [Remove Element](./js/remove-element.js)
+27. [Added first occurence of string](./js/first-occurence-of-string.js)
 
 ## Tips
 
