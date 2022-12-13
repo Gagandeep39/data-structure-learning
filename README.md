@@ -32,6 +32,15 @@ Repository to track my DSA learning journey
 24. [Swap Nodes in Pair](./js/swap-nodes-in-pairs.js)
 25. [Remove Duplicates from Sorted array](./js/remove-duplicate.js)
 26. [Remove Element](./js/remove-element.js)
+27. [Find the Index of the First Occurrence in a String](./js/first-occurence-of-string.js)
+28. [Search Insert Position](./js/search-insert-position.js)
+29. [Valid Sudoku](./js/valid-sudoku.js)
+30. [Count and Say](./js/count-and.say.js)
+31. [Combination Sum](./js/combination-sum.js)
+32. [Combination Sum II](./js/combination-sum-two.js)
+33. [Jump Game II](./js/jump-game-2.js)
+34. [Permutations](./js/permutations.js.js)
+35. [Permutations II](./js/permutations-2.js)
 
 ## Tips
 
