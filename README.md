@@ -41,6 +41,7 @@ Repository to track my DSA learning journey
 33. [Jump Game II](./js/jump-game-2.js)
 34. [Permutations](./js/permutations.js.js)
 35. [Permutations II](./js/permutations-2.js)
+36. [Group Anagrams](./js/group-anagrams.js)
 
 ## Tips
 
