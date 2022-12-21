@@ -42,6 +42,12 @@ Repository to track my DSA learning journey
 34. [Permutations](./js/permutations.js.js)
 35. [Permutations II](./js/permutations-2.js)
 36. [Group Anagrams](./js/group-anagrams.js)
+37. [Pow(x, n)](./js/power-x-n.js)
+38. [Maximum Subarray](./js/max-sub-array.js)
+39. [Spiral matrix](./js/spiral-matrix.js)
+40. [Jump Game](./js/jump-game.js)
+41. [Merge Intervals](./js/merge-intervals.js)
+42. [Insert Intervals](./js/insert-interval.js)
 
 ## Tips
 
