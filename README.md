@@ -49,6 +49,7 @@ Repository to track my DSA learning journey
 41. [Merge Intervals](./js/merge-intervals.js)
 42. [Insert Intervals](./js/insert-interval.js)
 43. [Length of last word](./js/length-of-last-word.js)
+44. [Spiral Matrix II](./js/spiral-matrix-2.js)
 
 ## Tips
 
