@@ -51,6 +51,7 @@ Repository to track my DSA learning journey
 43. [Length of last word](./js/length-of-last-word.js)
 44. [Spiral Matrix II](./js/spiral-matrix-2.js)
 45. [Permutation Sequence](./js/permutations-2.js)
+46. [Rotate List](./js/rotate-list.js)
 
 ## Tips
 
