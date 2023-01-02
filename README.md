@@ -53,6 +53,7 @@ Repository to track my DSA learning journey
 45. [Permutation Sequence](./js/permutations-2.js)
 46. [Rotate List](./js/rotate-list.js)
 47. [Unique Path](./js/unique-paths.js)
+48. [Square Root](./js/sqrt.js)
 
 ## Tips
 
