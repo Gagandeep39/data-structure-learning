@@ -48,6 +48,15 @@ Repository to track my DSA learning journey
 40. [Jump Game](./js/jump-game.js)
 41. [Merge Intervals](./js/merge-intervals.js)
 42. [Insert Intervals](./js/insert-interval.js)
+43. [Length of last word](./js/length-of-last-word.js)
+44. [Spiral Matrix II](./js/spiral-matrix-2.js)
+45. [Permutation Sequence](./js/permutations-2.js)
+46. [Rotate List](./js/rotate-list.js)
+47. [Unique Path](./js/unique-paths.js)
+48. [Square Root](./js/sqrt.js)
+49. [Climbing stairs](./js/climbing-stairs.js)
+50. [Simplify Path](./js/simplify-path.js)
+51. [Set Matrix Zero](./js/set-matrix-zero.js)
 
 ## Tips
 
