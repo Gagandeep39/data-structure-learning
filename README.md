@@ -54,6 +54,9 @@ Repository to track my DSA learning journey
 46. [Rotate List](./js/rotate-list.js)
 47. [Unique Path](./js/unique-paths.js)
 48. [Square Root](./js/sqrt.js)
+49. [Climbing stairs](./js/climbing-stairs.js)
+50. [Simplify Path](./js/simplify-path.js)
+51. [Set Matrix Zero](./js/set-matrix-zero.js)
 
 ## Tips
 
