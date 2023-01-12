@@ -17,7 +17,9 @@ var search = function (nums, target) {
     let mid = Math.floor((left + right) / 2);
 
     if (nums[mid] === target) return true;
+    // Check if mid is greater than left
     if (nums[left] <= nums[mid]) {
+      // If taret is between left and mid then update right, else update left
       if (nums[left] <= target && target <= nums[mid]) {
         right = mid;
       } else {
@@ -25,7 +27,9 @@ var search = function (nums, target) {
       }
     }
 
+    // Check if mid is smaller than right
     if (nums[right] >= nums[mid]) {
+      // Check if target is betweeb mid and right and update left or else right
       if (nums[mid] <= target && target <= nums[right]) {
         left = mid + 1;
       } else {
