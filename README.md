@@ -62,6 +62,7 @@ Repository to track my DSA learning journey
 54. [Search in Sorted List II](./js/search-in-sorted-array-2.js)
 55. [Remove duplicates from Sorted list](./js/remove-duplicate-from-sorted-list.js)
 56. [Partition List](./js/partition-list.js)
+57. [Gray Code](./js/gray-code.js)
 
 ## Tips
 
