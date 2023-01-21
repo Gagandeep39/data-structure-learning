@@ -53,6 +53,14 @@ var reverseBetween = function (head, left, right) {
   }
 
   // No. of times we have to reverse r - l + 1
+  // Try debugging to understand
+  // 1. Assign Next node in temp
+  // 2. Asign prev to next pointer
+  // 3. Assign current value to prev
+  // 4. Assign Next to current (Move ton ext node)
+  // 5. Net Itr: Assign next node to temp
+  // 6. Assign prev to next Node pointer (Prev from step 3)
+  // Bascially make 1 -> 2 to 2-> 1
   let prev = null;
   for (let i = 0; i < right - left + 1; i++) {
     // 1 -> 2 => 2 -> 1
