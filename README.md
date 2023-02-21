@@ -63,6 +63,7 @@ Repository to track my DSA learning journey
 55. [Remove duplicates from Sorted list](./js/remove-duplicate-from-sorted-list.js)
 56. [Partition List](./js/partition-list.js)
 57. [Gray Code](./js/gray-code.js)
+58. [Happy Number](./js/is-happy.js)
 
 ## Tips
 
