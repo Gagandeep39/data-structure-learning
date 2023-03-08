@@ -57,6 +57,13 @@ Repository to track my DSA learning journey
 49. [Climbing stairs](./js/climbing-stairs.js)
 50. [Simplify Path](./js/simplify-path.js)
 51. [Set Matrix Zero](./js/set-matrix-zero.js)
+52. [Word Search](./js/word-search.js)
+53. [Remove duplicates from Sorted array](./js/remove-duplicates-sorted-array.js)
+54. [Search in Sorted List II](./js/search-in-sorted-array-2.js)
+55. [Remove duplicates from Sorted list](./js/remove-duplicate-from-sorted-list.js)
+56. [Partition List](./js/partition-list.js)
+57. [Gray Code](./js/gray-code.js)
+58. [Happy Number](./js/is-happy.js)
 
 ## Tips
 
