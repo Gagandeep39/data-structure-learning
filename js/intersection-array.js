@@ -4,6 +4,11 @@
  * @return {number[]}
  */
 var intersection = function (nums1, nums2) {
+  /**
+   * ALgorith
+   * 1. Create 2 sets to get unique valu
+   * Check if set has a value using set.has and if true insert in a serultarray
+   */
   let set1 = new Set(nums1);
   let set2 = new Set(nums2);
 
