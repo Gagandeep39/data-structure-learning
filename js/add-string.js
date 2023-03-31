@@ -21,7 +21,7 @@ var addStrings = function (num1, num2) {
   let sum = '';
   let carry = 0;
   while (carry > 0 || i >= 0 || j >= 0) {
-    const digit1 = num1.charAt(i) - '0';
+    const digit1 = num1.charAt(i) - '0'; // To convert to number
     const digit2 = num2.charAt(j) - '0';
     const digitSum = digit1 + digit2 + carry;
 
