@@ -15,6 +15,7 @@ var flatten = function (root) {
 
   const preorder = (tree) => {
     if (!tree) return;
+    // DFS from right side as we want to move left pointer in between of root and rigt pointer
     preorder(tree.right);
     preorder(tree.left);
     tree.right = prev;
